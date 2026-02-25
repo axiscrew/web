@@ -29,11 +29,25 @@ export default function Home() {
               textDecoration: "none",
               fontWeight: "bold",
               borderRadius: "6px"
-    }}
-  >
-    Read the Genesis Charter
-  </a>
-</div>
+            }}
+          >
+            Read the Genesis Charter
+          </a>
+          <a
+            href="/login"
+            style={{
+              padding: "12px 24px",
+              border: "1px solid white",
+              color: "white",
+              textDecoration: "none",
+              fontWeight: "bold",
+              borderRadius: "6px",
+              marginLeft: "12px"
+            }}
+          >
+            Login
+          </a>
+        </div>
       </div>
     </main>
   );
