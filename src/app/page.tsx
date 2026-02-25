@@ -11,7 +11,7 @@ export default function Home() {
     }}>
       <div>
         <h1 style={{ fontSize: "3rem", marginBottom: "1rem" }}>
-          Axis Crew
+          AXIS CREW IS LIVE
         </h1>
         <p style={{ opacity: 0.7 }}>
           A founding collective building a persistent world on a real Earth map.
