@@ -57,3 +57,14 @@ export default function CharterPage() {
           <h2 style={{ marginTop: "1.5rem" }}>Article VII: Continuity</h2>
           <ul>
             <li>Major structural decisions become part of recorded history.</li>
+            <li>Reversals require an extraordinary constitutional process.</li>
+          </ul>
+        </div>
+
+        <p style={{ marginTop: "2rem", opacity: 0.6, fontSize: "0.9rem" }}>
+          Next: implement identity, the globe viewer, then the first genesis vote.
+        </p>
+      </div>
+    </main>
+  );
+}
