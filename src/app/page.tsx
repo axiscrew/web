@@ -19,6 +19,21 @@ export default function Home() {
         <p style={{ marginTop: "2rem", fontSize: "0.9rem", opacity: 0.5 }}>
           Phase 0: Globe + Login + Genesis Vote
         </p>
+        <div style={{ marginTop: "2rem" }}>
+          <a
+            href="/charter"
+            style={{
+              padding: "12px 24px",
+              background: "white",
+              color: "black",
+              textDecoration: "none",
+              fontWeight: "bold",
+              borderRadius: "6px"
+    }}
+  >
+    Read the Genesis Charter
+  </a>
+</div>
       </div>
     </main>
   );
