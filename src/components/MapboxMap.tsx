@@ -21,7 +21,7 @@ export default function MapboxMap() {
 
     mapRef.current = new mapboxgl.Map({
       container: mapContainerRef.current as HTMLDivElement,
-      style: "mapbox://styles/mapbox/satellite-streets-v12",
+      style: "mapbox://styles/tonyjfortuna/cmm7pwx3s001b01s30ys5ggzr",
       center: [-71.46, 43.77], // New Hampshire-ish start
       zoom: 4,
     });
