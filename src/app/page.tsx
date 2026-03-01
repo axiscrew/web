@@ -1,3 +1,4 @@
+import MapboxMap from "@/components/MapboxMap";
 export default function Home() {
   return (
     <main style={{
@@ -13,6 +14,7 @@ export default function Home() {
         <h1 style={{ fontSize: "3rem", marginBottom: "1rem" }}>
           AXIS CREW IS LIVE
         </h1>
+        <MapboxMap />
         <p style={{ opacity: 0.7 }}>
           A founding collective building a persistent world on a real Earth map.
         </p>
